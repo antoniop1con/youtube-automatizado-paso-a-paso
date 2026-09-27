@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+google-genai
+requests
+edge-tts
+cryptography==42.0.8
